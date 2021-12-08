@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## songshuai.github.io
 
 You can use the [editor on GitHub](https://github.com/songshuai9999/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
